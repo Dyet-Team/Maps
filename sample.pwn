@@ -19,8 +19,6 @@
 #include <a_samp>
 #include <streamer>
 
-#define FILTERSCRIPT
-
 public OnGameModeInit()
 {
     return 1;
