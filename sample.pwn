@@ -1,19 +1,19 @@
 #if define Contact_us
 
-    Dyet Team
-    Facebook_Page: fb.com/dyetteam
-    Facebook_Group: fb.com/groups/dyetteam
-    Website: dyetteam.blogspot.com
-    Discord: discord.gg/r2NadnU3Vd
+Dyet Team
+Facebook_Page: fb.com/dyetteam
+Facebook_Group: fb.com/groups/dyetteam
+Website: dyetteam.blogspot.com
+Discord: discord.gg/r2NadnU3Vd
 
-    Dawkin
-    Facebook: fb.me/dawkinit
-    Email: dawkinit@gmail.com
+Dawkin
+Facebook: fb.me/dawkinit
+Email: dawkinit@gmail.com
 
-    Delzer
-    Facebook: fb.me/delzerit
-    Email: delzerit@gmail.com
-    
+Delzer
+Facebook: fb.me/delzerit
+Email: delzerit@gmail.com
+
 #endif
 
 #include <a_samp>
